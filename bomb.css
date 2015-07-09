@@ -1,0 +1,28 @@
+body {
+	font-size: 18px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a {
+	color: rgb(0, 150, 200);
+	text-decoration: none;
+}
+
+a:hover {
+	color: rgb(0, 100, 125);
+	text-decoration: none;
+}
+
+/* For a very silly thing */
+
+.giant {
+	font-size: 135px;
+	text-align: center;
+}
+
+.tiny {
+	font-size: 12px;
+	text-align: center;
+	margin-top: 20px;
+	padding-top: 20px;
+}
